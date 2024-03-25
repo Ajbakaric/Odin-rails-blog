@@ -1,0 +1,9 @@
+=> 
+[32m#<Article:0x00007f8e33649a10[0m
+ id: [34m[1m1[0m,
+ title: [31m[1m"[0m[31mHello Rails[0m[31m[1m"[0m,
+ body: [31m[1m"[0m[31mI am on Rails![0m[31m[1m"[0m,
+ created_at:
+  Sat, 23 Mar 2024 18:56:13.883397000 UTC +00:00,
+ updated_at:
+  Sat, 23 Mar 2024 18:56:13.883397000 UTC +00:00[32m>[0m
